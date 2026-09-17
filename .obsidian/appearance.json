@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Blue Topaz",
+  "theme": "moonstone",
+  "accentColor": "",
+  "nativeMenus": false,
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "custom-admonitions.6ecfb8"
+  ]
+}
