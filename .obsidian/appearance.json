@@ -3,7 +3,7 @@
   "theme": "moonstone",
   "accentColor": "",
   "nativeMenus": false,
-  "baseFontSize": 19,
+  "baseFontSize": 20,
   "enabledCssSnippets": [
     "custom-admonitions.6ecfb8"
   ]

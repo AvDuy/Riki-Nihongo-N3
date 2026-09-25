@@ -1,0 +1,12 @@
+{
+  "rubySize": 0.5,
+  "hideRuby": false,
+  "sourceModeRendering": true,
+  "insertFullWidthMark": true,
+  "emphasisDot": "・",
+  "useDoubleAngleForEmphasis": false,
+  "enablePerNote": false,
+  "modifyRubyCharacter": false,
+  "startRubyCharacter": "《",
+  "endRubyCharacter": "》"
+}

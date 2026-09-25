@@ -1,0 +1,4 @@
+*.env
+
+# Ignore a specific file in the root directory
+Env.md

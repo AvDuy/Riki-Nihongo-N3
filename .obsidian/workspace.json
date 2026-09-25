@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8996844b74f978c1",
+        "id": "e8770e3a1395aafb",
         "type": "tabs",
         "children": [
           {
-            "id": "19c044f8330e0628",
+            "id": "c9ae2a12c6dee9a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Riki Nihongo N3/Kanji/Bài 3/徒 - Đồ.md",
-                "mode": "preview",
+                "file": "Riki Nihongo N3/General/Env.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "徒 - Đồ"
+              "title": "Env"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 218.5
   },
   "right": {
     "id": "adfd461a525ee9be",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 5..md",
+                "file": "Riki Nihongo N3/General/Env.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,20 +110,6 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
-            }
-          },
-          {
-            "id": "d767b026b18a876f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 5..md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
             }
           },
           {
@@ -180,8 +166,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "490d90a2541957a9",
@@ -196,12 +181,27 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "d767b026b18a876f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Riki Nihongo N3/General/Env.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,55 +214,55 @@
       "bases:Create new base": false
     }
   },
-  "active": "19c044f8330e0628",
+  "active": "c9ae2a12c6dee9a0",
   "lastOpenFiles": [
+    "Riki Nihongo N3/General/Riki First Step.md",
+    "Riki Nihongo N3/General/Env.md",
+    "Riki Nihongo N3/General/Phương pháp Chunking.md",
+    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Ngữ Pháp N3.5.md",
+    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 5/4.1 ～ようとする　Định／Cố gắng ~.md",
+    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 5/1. ～ことにしている - quyết tâm-cố gắng làm V.md",
+    "Riki Nihongo N3/Từ Vựng/Từ Vựng Bài 5/Từ Vựng 168-173.md",
+    "Riki Nihongo N3/Từ Vựng/Từ Vựng Bài 4/Từ Vựng 160-167.md",
+    "Riki Nihongo N3/Từ Vựng/Từ Vựng Bài 4/Từ Vựng 141-150.md",
+    "Riki Nihongo N3/Từ Vựng/Từ Vựng Bài 4/Từ Vựng 131-140.md",
+    "Riki Nihongo N3/Resource/Pasted image 20260913094417.png",
+    "Riki Nihongo N3/Live Stream Note/Tuần 6/2026-09-21 Ngữ Pháp.md",
     "Ngoài Chương Trình/Kanji/Tổ Hợp bộ thủ.md",
     "Ngoài Chương Trình/Ngữ Pháp/～つい.md",
-    "Riki Nihongo N3/Kanji/Bài 3/徒 - Đồ.md",
-    "Riki Nihongo N3/Kanji/Bài 3/Untitled.md",
     "Ngoài Chương Trình/Ngữ Pháp/Danh sách tổ hợp.md",
-    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 5/5.～つもりだった.md",
-    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 4.md",
+    "Các pattern khác cho chunking.md",
+    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Tổ Hợp/～「のは、のが、のも」＋～ことだ.md",
+    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Tổ Hợp/人／意見／こと＋が／も＋ある／いる／おおい／すくない.md",
+    "Untitled.md",
+    "Riki Nihongo N3/Resource/Pasted image 20260923144837.png",
+    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Tổ Hợp/～には～がある.md",
+    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 4. Cấu tạo câu - chủ ngữ/~がる／～がっている (Nêu mong muốn của ai đó).md",
     "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 5..md",
-    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Ngữ Pháp N3.5.md",
-    "Riki Nihongo N3/Kanji/Bài 3 Riki Nihongo N3 Kanji.md",
-    "Riki Nihongo N3/Kanji/Tổ hợp Kanji N3 Riki Nihongo.md",
-    "Riki Nihongo N3/Kanji/Bài 3",
-    "Riki Nihongo N3/Untitled.md",
-    "Riki Nihongo N3/Kanji",
-    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 5/4.1 ～ようとする　Định／Cố gắng ~.md",
+    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 4.md",
     "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 5/4.2 ～ようとしない　Không định／ không chịu.md",
-    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 5/3.～だけでなく／ばかりでなく～も　Không chỉ ／Không những ~ mà còn ~.md",
-    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 5/1. ～ことにしている - quyết tâm-cố gắng làm V.md",
-    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 4. Cấu tạo câu - chủ ngữ/Vてほしい／もらいたい／いただきたい　＊Muốn（ai đó làm gi）.md",
-    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 4. Cấu tạo câu - chủ ngữ/~って　Gọi là ~.md",
-    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 4. Cấu tạo câu - chủ ngữ/～って　（ai đó）nói rằng Nghe nói là ~.md",
-    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 4. Cấu tạo câu - chủ ngữ/～ずに　Không ~.md",
-    "Riki Nihongo N3/Đọc hiểu/Chương 1. Học dịch/Bài 3. Cấu tạo câu - Liên từ.md",
+    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 5/5.～つもりだった.md",
+    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Tổ Hợp",
     "Riki Nihongo N3/Đọc hiểu/Chương 1. Học dịch/Bài 1. Cấu tạo câu - chủ ngữ.md",
-    "Riki Nihongo N3/Đọc hiểu/Mục lục Đọc hiểu.md",
-    "Riki Nihongo N3/Ngữ Pháp/Ngữ Pháp N3.5/Bài 5/2. ～ことになっている - Đã được quyết định(quy định) là.md",
-    "Ngoài Chương Trình/Kanji/Bộ thủ/Bộ thủ có 2 nét (22).md",
-    "Ngoài Chương Trình/Kanji/Bộ thủ/Bộ thủ có 1 nét (6).md",
+    "Riki Nihongo N3/Đọc hiểu/Chương 1. Học dịch/Bài 3. Cấu tạo câu - Liên từ.md",
+    "Riki Nihongo N3/General",
+    "Riki Nihongo N3/Live Stream Note/Tuần 6",
+    "Riki Nihongo N3/Live Stream Note",
+    "Riki Nihongo N3/Từ Vựng/Từ Vựng Bài 5",
+    "Riki Nihongo N3/Từ Vựng/Từ Vựng Bài 4",
+    "Riki Nihongo N3/Từ Vựng",
+    "Riki Nihongo N3/Kanji/Bài 3",
+    "Riki Nihongo N3/Kanji",
     "Ngoài Chương Trình/Kanji/Bộ thủ",
-    "Ngoài Chương Trình/Kanji",
     "Riki Nihongo N3/Resource/Pasted image 20260915010226.png",
-    "Tài liệu.docx",
-    "~syncthing~Tài liệu.docx.tmp",
     "Riki Nihongo N3/Resource/Pasted image 20260915010629.png",
     "Riki Nihongo N3/Resource/Pasted image 20260915003002.png",
-    "Riki Nihongo N3/Đọc hiểu/Chương 1. Học dịch",
     "Riki Nihongo N3/Đọc hiểu/Untitled.canvas",
-    "Riki Nihongo N3/Đọc hiểu",
     "Riki Nihongo N3/Resource/Pasted image 20260915004330.png",
-    "Ngoài Chương Trình/Ngữ Pháp",
-    "Ngoài Chương Trình",
     "Riki Nihongo N3/Resource/Pasted image 20260915003312.png",
     "Riki Nihongo N3/Resource/Pasted image 20260915003304.png",
     "Riki Nihongo N3/Resource/Pasted image 20260913085848.png",
     "Riki Nihongo N3/Resource/Pasted image 20260914215322.png",
-    "Riki Nihongo N3/Resource/Pasted image 20260914014234.png",
-    "Riki Nihongo N3/Resource/Pasted image 20260914013951.png",
     "Untitled.canvas"
   ]
 }

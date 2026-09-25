@@ -1,0 +1,6 @@
+/* Test heading collapse indicator in Reading Mode */
+.markdown-preview-view .heading-collapse-indicator svg {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}

@@ -1,3 +1,4 @@
+Được lấy từ trang web https://drive.google.com/file/d/1AF940zcMj0-WuhkXdkFzOHq4BXVNJaRV/view
 ## Bộ thủ có 1 nét (6) 
 | STT | Bộ thủ | Âm Hán Việt | Cách đọc  | Ý nghĩa                      |
 | :-: | :----: | :---------: | --------- | ---------------------------- |
@@ -11,31 +12,31 @@
 ---
 
 ## Bộ thủ có 2 nét (22)
-| STT | Bộ thủ | Âm Hán Việt | Cách đọc | Ý nghĩa                      |
-| :-: | :----: | :---------: | -------- | ---------------------------- |
-|  7  |   二    |     Nhị     |          | Số hai                       |
-|  8  |   亠    |     Đầu     |          |                              |
-|  9  |   人    |    Nhân     |          | Người                        |
-| 10  |   儿    |     Nhi     |          | Trẻ con                      |
-| 11  |   入    |    Nhập     |          | Vào                          |
-| 12  |   八    |     Bát     |          | Số tám                       |
-| 13  |   冂    |    Quynh    |          | Vũng biên giới xa, hoang địa |
-| 14  |   冖    |    Mịch     |          | Trùm chăn lên                |
-| 15  |   冫    |    Băng     |          | Nước đá                      |
-| 16  |   几    |     Kỷ      |          | Ghế tựa                      |
-| 17  |   凵    |    Khảm     |          | Há miệng                     |
-| 18  |   刀    |     Đao     |          | Con dao, cây đao (Vũ khí)    |
-| 19  |   力    |     Lực     |          | Sức mạnh                     |
-| 20  |   勹    |     Bao     |          | Ba                           |
-| 21  |   匕    |    Chuỷ     |          | Cái thìa, cái muỗng          |
-| 22  |   匚    |   Phương    |          | Cái thìa, cái muỗng          |
-| 23  |   匸    |     Hệ      |          | Che đậy, giấu diếm           |
-| 24  |   十    |    Thập     |          | Số mười                      |
-| 25  |   卜    |     Bốc     |          | Xem bói                      |
-| 26  |   卩    |    Tiết     |          | Đốt tre                      |
-| 27  |   厂    | Hán, Xưởng  |          | Sườn núi, vách đá            |
-| 28  |   厶    |   Khư. tư   |          | Riêng tư                     |
-| 29  |   又    |     Hựu     |          | Lại nữa, một lần nữa         |
+| STT | Bộ thủ | Âm Hán Việt | Cách đọc             | Ý nghĩa                      |
+| :-: | :----: | :---------: | -------------------- | ---------------------------- |
+|  7  |   二    |     Nhị     | に                    | Số hai                       |
+|  8  |   亠    |     Đầu     | なべぶた                 |                              |
+|  9  | 人<br>亻 |    Nhân     | (ひと、ひとがしら)<br>(にんべん) | Người                        |
+| 10  |   儿    |   Nhân đi   |                      | Trẻ con                      |
+| 11  |   入    |    Nhập     |                      | Vào                          |
+| 12  |   八    |     Bát     |                      | Số tám                       |
+| 13  |   冂    |    Quynh    |                      | Vũng biên giới xa, hoang địa |
+| 14  |   冖    |    Mịch     |                      | Trùm chăn lên                |
+| 15  |   冫    |    Băng     |                      | Nước đá                      |
+| 16  |   几    |     Kỷ      |                      | Ghế tựa                      |
+| 17  |   凵    |    Khảm     |                      | Há miệng                     |
+| 18  |   刀    |     Đao     |                      | Con dao, cây đao (Vũ khí)    |
+| 19  |   力    |     Lực     |                      | Sức mạnh                     |
+| 20  |   勹    |     Bao     |                      | Ba                           |
+| 21  |   匕    |    Chuỷ     |                      | Cái thìa, cái muỗng          |
+| 22  |   匚    |   Phương    |                      | Cái thìa, cái muỗng          |
+| 23  |   匸    |     Hệ      |                      | Che đậy, giấu diếm           |
+| 24  |   十    |    Thập     |                      | Số mười                      |
+| 25  |   卜    |     Bốc     |                      | Xem bói                      |
+| 26  |   卩    |    Tiết     |                      | Đốt tre                      |
+| 27  |   厂    | Hán, Xưởng  |                      | Sườn núi, vách đá            |
+| 28  |   厶    |   Khư. tư   |                      | Riêng tư                     |
+| 29  |   又    |     Hựu     |                      | Lại nữa, một lần nữa         |
 
 ---
 
